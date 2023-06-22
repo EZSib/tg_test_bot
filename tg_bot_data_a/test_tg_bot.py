@@ -11,7 +11,7 @@ def random_word() -> str:
 
 
 API_URL: str = 'https://api.telegram.org/bot'
-BOT_TOKEN: str = '6083755443:AAGRmu5B1dZhCYXDfA0ELY9vWI5tSlSjvUk'
+BOT_TOKEN: str = ''
 text: str = 'sorry'
 MAX_COUNTER: int = 1111
 ERROR_TEXT: str = 'Здесь должна была быть картинка с котиком :('
