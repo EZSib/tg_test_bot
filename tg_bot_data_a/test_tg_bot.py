@@ -48,5 +48,5 @@ while True:
         time.sleep(1)
 
     except Exception as ex:
-        print(f'сори я  абасрався {ex}')
+        print(f'Ошибка {ex}')
     counter += 1
